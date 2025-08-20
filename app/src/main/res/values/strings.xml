@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="calorie_serach">Calorie Serach</string>
+    <string name="login">Login</string>
+    <string name="loginPage">Login</string>
+    <string name="password">Password</string>
+</resources>

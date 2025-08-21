@@ -42,11 +42,11 @@ To run the app locally:
 git clone https://github.com/wendydesilva/NutriTrack-Mobile-App.git
 cd NutriTrack-Mobile-App
 
-2) Open in Android Studio
+2) **Open in Android Studio**
    Open Android Studio → Open → select the project folder.
    Let Gradle sync complete.
 
-3) Run on device/emulator
+3) **Run on device/emulator**
 
 Start an Android emulator or connect a physical device with USB debugging enabled.
 
